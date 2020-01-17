@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EdurekaPythonDataScienceCertification2019
 
 ## Following are the topics covered in this course:
@@ -56,3 +57,6 @@
     [Model Selection and Boosting]
         - K-Fold
         - XGBoost
+=======
+# Edureka Python Data Science Certification 2019 Code
+>>>>>>> 4e0f05a2dfe81580012ec76722262dfce2c619fb
