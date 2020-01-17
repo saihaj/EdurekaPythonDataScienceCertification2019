@@ -1,4 +1,4 @@
-# EdurekaPythonDataScienceCertification2019
+# Edureka Python Data Science Certification 2019
 
 ## Following are the topics covered in this course:
 
